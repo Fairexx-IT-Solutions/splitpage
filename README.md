@@ -6,7 +6,7 @@ Learning Javascript from **Traversy** youtube videos inpired me to building alon
 
 
 ## General Information
-This project includes a step by step guide on how to make a split animation using Javascript, in this project the page is splitted into two equal parts on the screen, and when hovered on the any side of thge screen it takes 70% size of the screen and the other side takes 30%.
+This project includes a step by step guide on how to make a split animation using Javascript, in this project the page is splitted into two equal parts on the screen, and when hovered on the any side of the screen it takes 70% size of the screen and the other side takes 30%.
 
 
 ## Technologies
