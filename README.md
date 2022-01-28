@@ -17,7 +17,7 @@ Javascript
 
 
 ## Credits
-Special appreciation to My intern Supervisor For pointing the needs to understand proper page structuring.
+Special appreciation to My intern Supervisor Forguiding me through the process when errors were encountered.
 
 ## License
 **MIT © Fairexx Solutions**
